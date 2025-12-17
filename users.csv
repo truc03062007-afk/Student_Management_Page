@@ -1,0 +1,3 @@
+user_id,username,password,role,status,additional_data
+20001,student01,pass123,ST,enabled,FIT9136:85;FIT5136:-1
+20002,student02,pass123,ST,enabled,
